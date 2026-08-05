@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Mansoor Basha 👋</h1>
-<h3 align="center">Applied AI Engineer | Agents · RAG · LLM Systems</h3>
+<h1 align="center">Mansoor Basha</h1>
+<h3 align="center">AI/ML Engineering Student</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -14,25 +14,29 @@
 
 ---
 
-### About Me
+### Who Am I
 
-B.Tech CSE (AI & ML) student, Jain University, Bangalore — Class of 2027-28.
-First-generation engineer from Anantapur, Andhra Pradesh. I build backend and AI systems end-to-end: from database schema to LLM pipeline to deployment.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=giddamansoorbasha&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giddamansoorbasha&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+AI/ML student focused on building applied AI systems — RAG pipelines, LLM agents, and backend APIs that put them into production.
 
 ---
 
-### 📫 Connect
+### Experience
 
-<p align="center">
-  <a href="mailto:giddamansoor0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/giddamansoorbasha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+**AI Intern — Shivohini AI LLP**
+`4 months, ongoing`
+Working on dataset preprocessing and model fine-tuning for AI applications.
+
+---
+
+### Projects
+
+**AskYourDB**
+Text-to-SQL system — connect a database via URL and query it using natural language instead of writing SQL.
+
+**RAG Document Chatbot**
+Document Q&A system using retrieval-augmented generation — upload documents, ask questions, get answers grounded in the content.
+
+**Task Management System**
+Backend API for managing tasks with authentication and role-based access.
+
+*All three projects use JWT-based login and signup for authentication.*
