@@ -1,85 +1,33 @@
-<h1 align="center">Mansoor Basha</h1>
-<h3 align="center">🤖 AI/ML Engineering Student | Building Agents & RAG Systems</h3>
+# 👋 Hi, I'm Gidda Mansoor Basha
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=giddamansoorbasha&style=flat-square&color=blue" alt="profile views"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square"/>
-</p>
+### 🤖 Applied AI Engineer in training
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,docker,git,supabase" />
-</p>
+I build AI-powered products: RAG systems, LLM agents, and the backends that serve them.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-</p>
+🎓 B.Tech CSE (AI/ML), Jain University, Bangalore · Graduating 2027–28
 
 ---
 
-### 👋 Who Am I
+## 🚀 Projects
 
-AI/ML student focused on building applied AI systems — RAG pipelines, LLM agents, and backend APIs that put them into production.
+### 📄 RAG Document Chatbot
+Upload documents, ask questions, get answers grounded in their content.
+- 🔍 Retrieval: pgvector + Sentence Transformers
+- 🧠 LLM: Groq (LLaMA 3.3 70B)
+- ⚙️ Backend: FastAPI, JWT auth, Docker, Supabase
+- 🖥️ Frontend: React on Vercel
+- 🔗 [Live API](https://rag-document-chatbot-3jqq.onrender.com/docs)
 
-- 🔭 Focused on: LLM agents, retrieval-augmented generation, backend systems
-- ⚙️ Comfortable across the full stack: database → API → LLM pipeline → deployment
-- 📚 Constantly learning: agent orchestration, tool-calling, multi-agent workflows
+### 🗃️ AskYourDB
+LangGraph text-to-SQL agent. Connect a database by URL, ask in plain English, and the agent generates and runs SQL, then returns the results.
 
----
-
-### 💼 Experience
-
-**AI Intern — Shivohini AI LLP**
-`4 months · Ongoing`
-
-Working on dataset preprocessing and model fine-tuning for AI applications.
-
----
-
-### 🚀 Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**🗃️ AskYourDB**
-
-Text-to-SQL system. Connect a database via URL, ask questions in plain English, get SQL-backed answers.
-
-</td>
-<td width="33%" valign="top">
-
-**📄 RAG Document Chatbot**
-
-Retrieval-augmented Q&A. Upload documents, ask questions, get answers grounded in the content.
-
-</td>
-<td width="33%" valign="top">
-
-**✅ Task Management System**
-
-Backend API for task workflows with role-based access control.
-
-</td>
-</tr>
-</table>
-
-> All three projects use JWT-based authentication for login and signup.
+### ✅ Task Management System
+Backend API for task workflows with role-based access control and JWT auth.
 
 ---
 
-### 📊 GitHub Activity
+## 🛠️ Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giddamansoorbasha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giddamansoorbasha&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giddamansoorbasha&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-<p align="center"><i>Building in public, one system at a time.</i></p>
+- 🤖 **AI:** LLMs, RAG, agents, LangChain, LangGraph, PyTorch
+- ⚙️ **Backend:** Python, FastAPI, Pydantic, SQLAlchemy, PostgreSQL, Redis, Celery
+- 🐳 **DevOps:** Docker, Git, GitHub Actions, AWS
